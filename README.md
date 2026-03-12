@@ -9,7 +9,7 @@ The TOB is responsible for managing conflicts, violations of procedures or guide
 * **Jeff Carter [Docker]** (term date: 1/29/2026 - 1/29/2028)
 * **Phil Estes [AWS]** (term date: 1/29/2026 - 1/29/2028)
 * **Tianon Gravi [Docker]** (term date: 1/29/2025 - 1/29/2027)
-* **Samuel Karp [Google]** (term date: 1/29/2026 - 1/29/2028)
+* **Samuel Karp [Google]** (term date: 1/29/2026 - 1/29/2028) [Chair]
 * **Brandon Mitchell [Independent]** (term date: 1/29/2025 - 1/29/2027)
 * **Aleksa Sarai [Amutable]** (term date: 1/29/2025 - 1/29/2027)
 
